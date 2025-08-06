@@ -30,7 +30,7 @@ El proyecto se dividió en 4 etapas:
 ### 2️⃣ Modelado de datos
 
 - Se diseñó un modelo en **esquema estrella** optimizado para rendimiento y análisis.
-- Se definieron relaciones adecuadas entre tablas evitando relaciones muchos a muchos (N:M).
+- Se definieron relaciones adecuadas entre tablas evitando relaciones muchos a muchos (M:M).
 - Se utilizó la tabla `DimDate` como calendario.
 - Se creó un **Mockup** con base en las necesidades del negocio, organizando las visualizaciones en 3 páginas:
   - **Portada**
